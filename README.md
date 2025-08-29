@@ -1,4 +1,5 @@
 Personality Quiz App
+
 A fun and interactive single-page application that analyzes a user's personality through a series of engaging questions and provides a personalized result. Built with a focus on a dynamic and smooth user experience.
 
 Features
